@@ -1,0 +1,155 @@
+{
+  "quotes" :
+  [
+    {
+      "quote" : "I am in a charming state of confusion.",
+      "author" : "Ada Lovelace"
+    },
+    {
+      "quote" : "We leave it for the decision of each individual (after he has possessed himself of competent information as to the characteristics of each engine) to determine how far it ought to be matter of regret that such an accession has been made to the powers of human science.",
+      "author" : "Ada Lovelace"
+    },
+    {
+      "quote" : "The Analytical Engine weaves algebraical patterns just as the Jacquard-loom weaves flowers and leaves.",
+      "author" : "Ada Lovelace"
+    },
+    {
+      "quote" : "[The Analytical Engine] might act upon other things besides number, were objects found whose mutual fundamental relations could be expressed by those of the abstract science of operations, and which should be also susceptible of adaptations to the action of the operating notation and mechanism of the engine...Supposing, for instance, that the fundamental relations of pitched sounds in the science of harmony and of musical composition were susceptible of such expression and adaptations, the engine might compose elaborate and scientific pieces of music of any degree of complexity or extent.",
+      "author" : "Ada Lovelace"
+    },
+    {
+      "quote" : "A lot of kids growing up today aren/'t told that you can be whatever you want to be. There may be obstacles, but there are no limits.",
+      "author" : "Mark Dean"
+    },
+    {
+      "quote" : "I personally believe most of the industry [doesn/'t] understand the benefits of a diverse workforce (awareness of societal norms and biases, cross-sectional innovation, diversity of leadership styles, out-of-the-box thinking, brand strength across all parts of society, better understanding of emerging markets -- domestic and international).",
+      "author" : "Mark Dean"
+    },
+    {
+      "quote" : "When people have their biases and prejudices, yes, I am aware. My head is not in the sand. But my thing is, if I can't work with you, I will work around you. I was not about to be so discouraged that I'd walk away. That may be a solution for some people, but it's not mine.",
+      "author" : "Annie Easley"
+    },
+    {
+      "quote" : "I'd like to just throw in here at this time that I tell people that it doesn't matter what your age is or what you decide to do when you're eighteen or sixteen, it doesn't matter if you change your mind later on and change fields, because we need to be flexible.",
+      "author" : "Annie Easley"
+    },
+    {
+      "quote" : "I want to make it easy for people to use the computer as an expressive instrument, and to inspire people to learn about themselves and the world.",
+      "author" : "John Henry Thompson"
+    },
+    {
+      "quote" : "Everything is physics and math.",
+      "author" : "Katherine Johnson"
+    },
+    {
+      "quote" : "[Automation research focus is] to reduce the complexity of the user/'s interface to the [office information] system, control the flow of information, and enhance the overall efficiency of the office.",
+      "author" : "Clarence Ellis"
+    },
+    {
+      "quote" : "software engineering",
+      "author" : "Margaret Hamilton"
+    },
+    {
+      "quote" : "Software eventually and necessarily gained the same respect as any other discipline.",
+      "author" : "Margaret Hamilton"
+    },
+    {
+      "quote" : "I don’t try to understand computers. I try to understand the programs. Whenever you design a program, you have a particular thing in mind you’d like it to do. Then you implement a lot of software to accomplish this thing. As part of doing this, you have to have some way of thinking about what the program is doing. That’s what I mean by understanding: understanding what the program is supposed to do and how it accomplishes this task. ",
+      "author" : "Barbara Liskov"
+    },
+    {
+      "quote" : "Computer scientists come in a wide variety of forms. Some of them are very close to mathematicians, and others are very close to electrical engineers. We’re all doing different kinds of things.",
+      "author" : "Barbara Liskov"
+    },
+    {
+      "quote" : "To me programming is more than an important practical art. It is also a gigantic undertaking in the foundations of knowledge.",
+      "author" : "Grace Hopper"
+    },
+    {
+      "quote" : "We/'re flooding people with information. We need to feed it through a processor. A human must turn information into intelligence or knowledge. We/'ve tended to forget that no computer will ever ask a new question.",
+      "author" : "Grace Hopper"
+    },
+    {
+      "quote" : "From then on, when anything went wrong with a computer, we said it had bugs in it.",
+      "author" : "Grace Hopper"
+    },
+    {
+      "quote" : "If one ox could not do the job they did not try to grow a bigger ox, but used two oxen. When we need greater computer power, the answer is not to get a bigger computer, but...to build systems of computers and operate them in parallel.",
+      "author" : "Grace Hopper"
+    },
+    {
+      "quote" : "One accurate measurement is worth a thousand expert opinions.",
+      "author" : "Grace Hopper"
+    },
+    {
+      "quote" : "There sat that beautiful big machine whose sole job was to copy things and do addition. Why not make the computer do it? That’s why I sat down and wrote the first compiler. It was very stupid. What I did was watch myself put together a program and make the computer do what I did. ",
+      "author" : "Grace Hopper"
+    },
+    {
+      "quote" : "I changed what I could, and what I couldn't, I endured.",
+      "author" : "Dorothy Vaughn"
+    },
+    {
+      "quote" : "[Y]ou gotta be prepared for success, because you know (laughs), you might succeed and you/'re not ready.",
+      "author" : "Frank Green, Jr."
+    }
+  ],
+
+  "bibliography" :
+  [
+    {
+      "Title": "Letter to Charles Babbage",
+      "Author": "Ada Lovelace",
+      "PubDate": "1843",
+      "TranslDate": ""
+    },
+    {
+      "Title": "On Menabrea's paper, Sketch of the Analytical Engine Invented by Charles Babbage",
+      "Author": "Ada Lovelace",
+      "PubDate": "1842",
+      "TranslDate": ""
+    },
+    {
+      "Title": "Annie Easley: Oral History",
+      "Author": "NASA Oral History Project. Interviewed by Sandra Johnson",
+      "PubDate": "2001",
+      "TranslDate": ""
+    },
+    {
+      "Title": "Office Information Systems and Computer Science. In ACM Computing Surveys, 12",
+      "Author": "Clarence Ellis and Gary Nutt",
+      "PubDate": "1980",
+      "TranslDate": ""
+    },
+    {
+      "Title": "",
+      "Author": "",
+      "PubDate": "",
+      "TranslDate": ""
+    },
+    {
+      "Title": "",
+      "Author": "",
+      "PubDate": "",
+      "TranslDate": ""
+    },
+    {
+      "Title": "",
+      "Author": "",
+      "PubDate": "",
+      "TranslDate": ""
+    },
+    {
+      "Title": "",
+      "Author": "",
+      "PubDate": "",
+      "TranslDate": ""
+    },
+    {
+      "Title": "",
+      "Author": "",
+      "PubDate": "",
+      "TranslDate": ""
+    }
+  ]
+}
